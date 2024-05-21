@@ -1,2 +1,0 @@
-# LeadershipSurveyPlatform
-LeadershipSurveyPlatform
