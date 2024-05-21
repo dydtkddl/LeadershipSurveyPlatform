@@ -1,0 +1,1 @@
+export { default as ResultUN17Goal } from './survey-result';
